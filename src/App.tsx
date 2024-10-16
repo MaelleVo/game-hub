@@ -1,10 +1,11 @@
-import ListGroup from "./components/ListGroup";
-import Button from "./components/Button";
-import Alert from "./components/Alert";
+import { Button, ButtonGroup } from "@chakra-ui/react";
 
 function App() {
-  let items = ["New York", "Tokyo", "Paris", "Singapour", "London"];
-  return <></>;
+  return (
+    <>
+      <Button colorScheme="blue">Button</Button>
+    </>
+  );
 }
 
 export default App;
