@@ -1,12 +1,14 @@
 # Game Hub Project in Typescript & React
 
 C'est mon premier projet en Typescript avec React. C'est une application web qui permet de rechercher les jeux vidéos selon les genres, les notes, les noms, les dates et autres. 
+L'utilisation de Chakra UI et bootstrap est une mremière aussi. 
 
 ## Fonctionnalités
 
 - **SearchBar**:  Affichage dynamique des résultats
 - **Filtres**: Par genres, noms et autres. Affichage dynamique des titres selon les recherches.
 - **Responsive**: S'affiche sous tous les écrans de manière optimisée.
+- **Dark Mode**: Bouton switch pour choisir entre le 'Dark Mode' ou 'Light Mode'
 
 ## Technologies utilisées
 
